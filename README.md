@@ -1,3 +1,11 @@
+Name:TURAI SAI BHAVANA
+COMPANY:CODTECH IT SOLUTIONS
+ID:CT08D54421
+DURATION:JULY TO AUGUST2024
+MENTOR:
+Overview of the project
+Project: LINEAR REGRESSION TO PREDICT HOUSING PRICE
+Objective
 Linear Regression Project
 Welcome to the Linear Regression project repository! This project is designed to provide a comprehensive understanding of linear regression, one of the fundamental algorithms in machine learning and statistics. Whether you are a beginner looking to grasp the basics or an advanced user seeking to deepen your knowledge, this repository offers the tools and resources you need.
 
